@@ -4,9 +4,9 @@
   - <a href="https://www.figma.com/design/3NezBaWT5VxqR9dlFkNSjU/Untitled?node-id=0-1&t=8mZCAVbrFLZDkf0L-1">Figma</a> -
 </p>
 
-## LocAuto 
+## LocAuto 🚗
 
-## Contexto do projeto LocAuto 🚗🛵
+## Contexto do projeto LocAuto 
 <p>
 A partir da proposta de simulado da métrica de avaliação SENAI, chamado PROVEI, houve a criação do LocAuto. Um sistema de gerenciamento para uma locadora de carros, desenvolvido para facilitar o controle de automóveis disponíveis para locação.
   Seguindo alguns critérios, apresentamos a vocês o sistema LocAuto, de aluguel de automóveis, contendo, praticidade, objetividade e muita facilidade ao usuário. Confira os links anexados abaixo da imagem e veja como foi o processo de construção de nosso site.
