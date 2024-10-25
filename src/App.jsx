@@ -10,9 +10,10 @@ import HomePage from "./components/Home/Home";
 function App() {
   return (
     <Router>
-      <div className="container">
+      <div className="">
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/patios" element={<PatioList />} />
           <Route path="/patios/:patioId/veiculos" element={<VehicleList />} />
           <Route path="/cadastro" element={<CustomerForm />} />
           <Route path="/historico" element={<LocacaoHistory />} />
